@@ -1,0 +1,1 @@
+[[Vector Similarity]] 를 측정하는 방법 중 하나.
