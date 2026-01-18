@@ -1,0 +1,33 @@
+- [[DevOps]]
+- [[tech stack]]
+	- [[Full-Stack]]
+- [[Headless]]
+- [[Backlog]]
+- [[Client-Server Architecture]] 
+- [[Agile Software Development]]
+	- [[Sprint]]
+- [[Sandbox]]
+- [[Runtime]]
+- [[Git]]
+- [[Refactoring]]
+
+### Acronym
+- [[MVP]](Minimum Viable Product)
+- [[PR]](Pull Request)
+- [[UX]](User Experience)
+- [[HTTP]](HyperText Transfer Protocol)
+- [[HTML]](HyperText Markup Language)
+- [[API]](Application Programming Interface)
+- [[REST]](Representational State Transfer)
+- [[CMS]](Content Management System)
+- [[SaaS]](Software as a Service)
+- [[DNS]](Domain Name System)
+- [[IDE]](Integrated Development Environment)
+- [[JSON]](JavaScript Object Notation)
+- [[WYSIWYG]](What You See Is What You Get)
+- [[CDN]](Content Delivery Network)
+- [[CRUD]](Create, Read, Update, Delete)
+- [[TDD]](Test-Driven Development)
+-  [[MVC]](Model, View, Controller)
+- [[CI/CD]]
+- [[RegEx]]
