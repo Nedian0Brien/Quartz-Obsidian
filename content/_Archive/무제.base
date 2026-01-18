@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: 표
+    order:
+      - file.name
+  - type: cards
+    name: 뷰
+    groupBy:
+      property: file.folder
+      direction: ASC
+  - type: table
+    name: 뷰 2
+    groupBy:
+      property: file.folder
+      direction: ASC
