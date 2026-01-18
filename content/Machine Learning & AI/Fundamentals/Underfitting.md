@@ -1,0 +1,1 @@
+반대말은 [[Overfitting]]
