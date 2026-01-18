@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c0ac88fb708057e8","type":"file","file":"베이지안 추론(Bayesian inference).md","x":440,"y":60,"width":400,"height":400},
+		{"id":"b852442df87e3295","type":"file","file":"SHAP(SHapley Additive exPlanations).md","x":-220,"y":-160,"width":540,"height":420}
+	],
+	"edges":[
+		{"id":"123a8e77e78dfe01","fromNode":"b852442df87e3295","fromSide":"bottom","toNode":"c0ac88fb708057e8","toSide":"left"}
+	]
+}
